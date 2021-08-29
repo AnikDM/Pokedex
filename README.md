@@ -1,6 +1,6 @@
 # Pokedex
 A Basic Pokedex with JS
 
-Link To Visit
+Link To Visit:-
 
 https://anikdm.github.io/Pokedex/
