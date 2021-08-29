@@ -1,4 +1,4 @@
 # Pokedex
 A Basic Pokedex with JS
 
-https://github.com/AnikDM/Pokedex.git
+https://github.com/AnikDM/Pokedex
